@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umang39&theme=material-palenight&hide_langs_below=1" />
 
-<video src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif"></video>
+https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif
